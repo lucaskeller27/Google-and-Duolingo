@@ -31,10 +31,8 @@ Sobre
 **Autor**:
 * Lucas Keller
 
-The goal was to learn React and using Spring as backend, so I started
-following this [guide](https://spring.io/guides/tutorials/react-and-spring-data-rest)
-from _Spring.io_ (Greg Turnquist and other authors from _Pivotal_), but I ended up
-rewriting  almost all from scratch and adding a lot of features, like Bootstrap,
-client side validations, routing, updating dependencies to major versions ...
+### 📝 Considerações Finais
+
+Desenvolvi bastante minhas habilidades no React Native nesse projeto, pesquisando e aprendendo várias funções que não conhecia, principalmente na parte da estilização. Estou animado para os próximos projetos que desenvolverei neste framework, e estou adorando o processo de aprendizado.
 
 21 . 4 . 2023
