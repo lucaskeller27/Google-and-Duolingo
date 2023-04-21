@@ -1,26 +1,15 @@
 Tela de Login | Google & Duolingo
 ====================================
 
-Projeto com React Native onde construo UIs de telas de login do Google e Duolingo.
+Construção de telas de login do Google & Duolingo.
 
-## 🚀 Stack
+## ⚙️ Ferramentas
 
-- **Backend**: Java 17 LTS, Spring Boot 3 (web, security, JPA),
-  Postgres / H2 (or whatever DB is compatible with JPA).
-- **Frontend**: ReactJS, React Router, Bootstrap,
-  Axios, Reactstrap, Node 18 / Npm / Webpack (build).
+- Desenvolvi o projeto em React Native, no site Expo.dev. 
 
+### 🚀 Passo a Passo
 
-### ⚙️ Requirements
-
-- **JDK 17+**
-- **Maven 3+**, or you can use the script `./mvnw` instead that it will install
-  Maven 3.9 in the user space automatically if the required version isn't there
-
-To build the web assets the project uses **Node.js**, **Webpack**, ...
-but all of them are installed and triggered by Maven automatically
-in the user space.
-
+- Primeiramente, eu defini nos `imports` nas primeiras linhas do projeto quais aspectos e funções eu utilizei, como `<Text>`, e `<View>`.
 
 ## 🎮 Usage
 
@@ -28,7 +17,7 @@ Launch the application with:
 
     $ mvn spring-boot:run
 
-Or use `./mvnw` instead of `mvn` (`mvnw.cmd` for Window platforms).
+Or use  instead of `mvn` (`mvnw.cmd` for Window platforms).
 
 Then access the application with http://localhost:8080/, or access
 to the API with http://localhost:8080/api/.
