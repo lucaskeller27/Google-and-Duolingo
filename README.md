@@ -1,8 +1,6 @@
 Tela de Login | Google & Duolingo
 ====================================
 
-![React Spring CRUD](docs/img/spring-react-crud.png)
-
 Projeto com React Native onde construo UIs de telas de login do Google e Duolingo.
 
 ## 🚀 Stack
