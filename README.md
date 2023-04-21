@@ -15,7 +15,11 @@ Construção de telas de login do Google & Duolingo.
 
 ### 🌐 Google
 
+- 
+
 ### 🌎 Duolingo
+
+- 
 
 Launch the application with:
 
