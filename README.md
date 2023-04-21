@@ -102,4 +102,4 @@ from _Spring.io_ (Greg Turnquist and other authors from _Pivotal_), but I ended 
 rewriting  almost all from scratch and adding a lot of features, like Bootstrap,
 client side validations, routing, updating dependencies to major versions ...
 
-21.4.2023
+21 . 4 . 2023
