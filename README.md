@@ -14,81 +14,16 @@ Construção de telas de login do Google & Duolingo.
 ### 🌐 Google
 
 - Comecei criando os `<View>`'s e `<div>`'s, e definindo as classes para estilização.
-- 
+- Depois inseri a imagem da logo do Google, junto com o `<input>` da barra de pesquisa.
+- Logo após isso, criei a `<div>` no topo da página para servir como header.
+- Coloquei nessa `<div>` os ícones da câmera e de opções.
+- E por fim, terminei de estilizar todos os componentes, ajustando comprimento, altura, entre outros.
 
 ### 🌎 Duolingo
 
-- 
-
-Launch the application with:
-
-    $ mvn spring-boot:run
-
-Or use  instead of `mvn` (`mvnw.cmd` for Window platforms).
-
-Then access the application with http://localhost:8080/, or access
-to the API with http://localhost:8080/api/.
-
-One of the users to access the app with privileged permissions is `frodo@local`,
-and the password `admin`. Check and edit the initial dataset in
-the [DatabaseLoader.java](src/main/java/ar/com/mrdev/app/user/DatabaseLoader.java#L46-L50)
-file.
-
-If you access the API through the HAL browser, it will require to sign-in
-like with the dash panel using a web page provided by Spring Security,
-but if you are going to consume the API with a 3rd party tool
-you will need to authenticate using
-[HTTP Basic Authentication](https://en.wikipedia.org/wiki/Basic_access_authentication),
-eg. with `curl` the `Authorization: Basic ...` header can be generated using
-the `-u user:pass` argument:
-
-    $ curl -u gf@local:admin http://localhost:8080/api/users
-
-#### 🌶 Hot reloading
-
-To edit Javascript or CSS resources and see the changes in the
-browser without the need to re-launch the application, execute within
-a command line:
-
-    $ npm run watch
-
-And leave it running (if it doesn't work, try with `target/node/npm run watch`).
-
-
-#### 📦 Packaging
-
-Pack the application in a single .jar with all the dependencies
-and the web server with:
-
-    $ mvn package
-
-Add the argument `-Dmaven.test.skip` if you don't want to run the tests before packaging.
-
-Then you can run the .jar with:
-
-    $ java -jar target/app-0.0.1-SNAPSHOT.jar
-
-
-### ⏯ Tests
-
-For now only a test that checks that the spring context
-can be loaded is in the source code. Execute with:
-
-    $ mvn test
-
-A _GitHub Action_ workflow is configured as well
-as **CI** environment, check out [maven.yml](.github/workflows/maven.yml).
-
-Versions
---------
-
-For now there are two versions, each one with its own branch:
-
-- `master`: main version with an in-memory database (H2) to quickly
-  launch the application without the need of a database installed (local tests).
-- `postgres`: modified version with PostgreSQL configured,
-  ready for "production" usage.
-
+- Aqui, após criar os `<View>`'s e `<div>`'s e definir as classes, importei a imagem da logo do Duolingo.
+- E depois disso, criei o texto que fica abaixo da logo, e os dois botões que ficam no fim da página.
+- O último passo, e também o mais demorado, foi estilizar tudo, ajustando a posição de cada item na página, as cores dos elementos, e as bordas dos botões.
 
 Sobre
 -----
