@@ -96,4 +96,10 @@ Sobre
 **Autor**:
 * Lucas Keller
 
-2023
+The goal was to learn React and using Spring as backend, so I started
+following this [guide](https://spring.io/guides/tutorials/react-and-spring-data-rest)
+from _Spring.io_ (Greg Turnquist and other authors from _Pivotal_), but I ended up
+rewriting  almost all from scratch and adding a lot of features, like Bootstrap,
+client side validations, routing, updating dependencies to major versions ...
+
+21.4.2023
