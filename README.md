@@ -7,12 +7,14 @@ Construção de telas de login do Google & Duolingo.
 
 - Desenvolvi o projeto em React Native, no site Expo.dev. 
 
-### 🚀 Passo a Passo
+## 🚀 Passo a Passo
 
 - Primeiramente, eu importei do React Native os aspectos e funções que eu utilizei, como `<Text>`, e `<View>`.
 - Depois, eu 
 
-## 🎮 Usage
+## 🌐 Google
+
+## 🌎 Duolingo
 
 Launch the application with:
 
