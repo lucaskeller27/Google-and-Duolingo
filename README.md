@@ -13,6 +13,7 @@ Construção de telas de login do Google & Duolingo.
 
 ### 🌐 Google
 
+- Comecei criando os `<View>`'s e `<div>`'s, e definindo as classes para estilização.
 - 
 
 ### 🌎 Duolingo
@@ -89,18 +90,10 @@ For now there are two versions, each one with its own branch:
   ready for "production" usage.
 
 
-About
+Sobre
 -----
 
-**Source code**: https://github.com/mrsarm/spring-react-crud
+**Autor**:
+* Lucas Keller
 
-**Authors**:
-* Mariano Ruiz <mrsarm (at) gmail>
-
-The goal was to learn React and using Spring as backend, so I started
-following this [guide](https://spring.io/guides/tutorials/react-and-spring-data-rest)
-from _Spring.io_ (Greg Turnquist and other authors from _Pivotal_), but I ended up
-rewriting  almost all from scratch and adding a lot of features, like Bootstrap,
-client side validations, routing, updating dependencies to major versions ...
-
-2015-2023  |  Apache-2.0
+2023
