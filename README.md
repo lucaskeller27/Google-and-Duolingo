@@ -3,9 +3,10 @@ Tela de Login | Google & Duolingo
 
 Construção de telas de login do Google & Duolingo.
 
-## ⚙️ Ferramentas
+## ⚙️ O Projeto
 
 - Desenvolvi o projeto em React Native, no site Expo.dev. 
+- Abaixo, detalhei algumas etapas de configuração dos dois projetos, e depois, abordei separadamente as etapas para construção de cada tela.
 
 ## 🚀 Passo a Passo
 
